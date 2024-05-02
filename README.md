@@ -1,4 +1,4 @@
-# columbia-point-bostone
+# columbia-point-boston
 
 *Jekyll website for the Columbia Point Boston Project @ [Boston College](https://bc.edu)*
 
