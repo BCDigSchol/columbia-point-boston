@@ -2,7 +2,7 @@
 
 *Jekyll website for the Columbia Point Boston Project @ [Boston College](https://bc.edu)*
 
-By UNCERTAIN
+By Emily Coello
 
 ## About
 

@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "The Struggle for Columbia POint"
 authors:
-  - family-names: UNCERTAIN
-    given-names: UNCERTAIN
+  - family-names: Coello
+    given-names: Emily
 abstract: "Jekyll site for The Struggle for Columbia Point Project @ Boston College"
 version: 0.0.1
 date-released: "2024-4-9"

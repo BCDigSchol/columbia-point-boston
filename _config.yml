@@ -32,7 +32,7 @@ search-bar: false
 
 hide-footer: false # set to true to hide the footer
 footer-message: "The Struggle for Columbia Point | CC BY-NC License"
-footer-submessage:  By UNCERTAIN, with the Digital Scholarship Group, Boston College
+footer-submessage:  By Emily Coello, with the Digital Scholarship Group, Boston College
 footer-submessage-link: https://ds.bc.edu
 
 # google-analytics: // if you want to use Google analytics, include your ID here
